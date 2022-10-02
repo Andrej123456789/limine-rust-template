@@ -1,0 +1,1 @@
+/home/vangu/Documents/Programming/tests/Lirix/src/target/x86_64-barebones/debug/barebones: /home/vangu/Documents/Programming/tests/Lirix/limine/src/lib.rs /home/vangu/Documents/Programming/tests/Lirix/src/src/main.rs /home/vangu/Documents/Programming/tests/Lirix/src/src/writer.rs
