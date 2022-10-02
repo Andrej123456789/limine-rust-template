@@ -38,3 +38,5 @@ qemu-system-x86_64 -cdrom barebones.iso --no-reboot -d int -D qemulog.log
 
 # go back
 cd ../
+
+echo "Done!"

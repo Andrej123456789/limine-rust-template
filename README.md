@@ -3,6 +3,7 @@
 
 # Run
 - Install `gcc`, `build-essential`, `cargo`, `make` and virtual machine (Qemu recommended)
+- Run `./first-run.sh` in your terminal/terminal emulator if you just clonned this repo
 - Run `./build.sh` in your terminal/terminal emulator
 
 ## Credits
