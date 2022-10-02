@@ -38,7 +38,7 @@ extern "C" fn x86_64_barebones_main() -> ! {
         .memmap();
 
     println!("mmap: {:#x?}", mmap);
-    println!("Ovo je test!");
+    println!("Another test string!");
 
     loop {}
 }
