@@ -1,1 +1,0 @@
-/home/vangu/Documents/Programming/Andrej123456789/limine-rust-template/src/target/x86_64-barebones/debug/barebones: /home/vangu/Documents/Programming/Andrej123456789/limine-rust-template/limine/src/lib.rs /home/vangu/Documents/Programming/Andrej123456789/limine-rust-template/src/src/main.rs /home/vangu/Documents/Programming/Andrej123456789/limine-rust-template/src/src/writer.rs
